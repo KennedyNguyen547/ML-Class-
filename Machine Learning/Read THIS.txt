@@ -1,0 +1,4 @@
+These notebooks were done as assignments  for a machine learning class.
+They all apply supervised learning algorithms.
+All the notebooks use Pandas and Numpy.
+Some notebooks may need Keras AND Tensorflow to run, and some uses matplotlib for graphs.
