@@ -1,0 +1,2 @@
+The notebooks in this folder are done for a data science class in the Fall of 2020.
+These notebooks uses Pandas, Numpy, and Scikit Learn libraries in Python.
